@@ -71,6 +71,16 @@ a {
   .page-header {
     padding: 2rem 1rem; } }
 
+.img-fluid {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  image: center;
+  margin: 0 auto;
+
+}
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }
